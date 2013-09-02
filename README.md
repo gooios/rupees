@@ -1,0 +1,4 @@
+rupees
+======
+
+Rupees rpc coin
